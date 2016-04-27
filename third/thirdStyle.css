@@ -10,16 +10,30 @@ main {
 }
 .one {
     background-color: cornflowerblue;
-     height: 120px;
+     height: 100px;
     max-width: 100%;
 }
 .second {
    background-color: aquamarine; 
-     height: 120px;
+     height: 100px;
     max-width: 100%;
 }
 .third {
-    background-color: yellow;
-     height: 120px;
+    background-color: darkseagreen;
+     height: 100px;
     max-width: 100%;
+}
+.four {
+    background-color: yellow;
+     height: 100px;
+    max-width: 100%;
+}
+.five {
+    height: 60px;
+    width: 60px;
+    background-color:cornflowerblue;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 10px;
+    
 }

@@ -3,31 +3,34 @@
 }
 .cornblue{
    width: 436px;
-    height: 922px;
+    height: 700px;
     background-color: cornflowerblue;
     float: left;
     
 }
 .torq{
     width: 436px;
-    height: 922px;
+    height: 700px;
     background-color:aquamarine;
     margin-left: 436px;
 }
 .green{
     width: 395px;
-    height: 910px;
+    height: 700px;
     background-color:cadetblue;
     float: right;
-    margin-top: -1022px;
+    margin-top: -702px;
 }
 .red{
-    width: 390px;
+    width: 395px;
     height: 120px;
     background-color: red;
-    margin-left: 872px;
-    margin-top: -120px;
+    position: absolute;
+    margin-left: 870px;
+    margin-top: -125px;
 }
 h6{
     color: white;
+    text-align: center;
+    font-size: 20px;
 }
