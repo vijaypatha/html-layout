@@ -1,0 +1,33 @@
+.container {
+    display: inline;
+}
+.cornblue{
+   width: 436px;
+    height: 922px;
+    background-color: cornflowerblue;
+    float: left;
+    
+}
+.torq{
+    width: 436px;
+    height: 922px;
+    background-color:aquamarine;
+    margin-left: 436px;
+}
+.green{
+    width: 395px;
+    height: 910px;
+    background-color:cadetblue;
+    float: right;
+    margin-top: -1022px;
+}
+.red{
+    width: 390px;
+    height: 120px;
+    background-color: red;
+    margin-left: 872px;
+    margin-top: -120px;
+}
+h6{
+    color: white;
+}

@@ -1,0 +1,26 @@
+header{
+    background-color: dimgray;
+    height: 120px;
+    max-width: 100%;
+}
+nav {
+    float: left;
+    background-color: lightgray;
+    width: 165px;
+    height: 520px;
+}
+aside {
+     float: right;
+    background-color: lightgray;
+    width: 165px;
+    height: 520px;
+}
+
+.clear {
+    clear: both;
+}
+footer {
+    max-width: 100%;
+    background-color: dimgray;
+    height: 80px;
+}

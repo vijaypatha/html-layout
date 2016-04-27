@@ -1,0 +1,25 @@
+header{
+   background-color: lightgray;
+    height: 80px;
+    max-width: 100%;
+}
+main {
+    background-color: white;
+     height: 180px;
+    max-width: 100%;
+}
+.one {
+    background-color: cornflowerblue;
+     height: 120px;
+    max-width: 100%;
+}
+.second {
+   background-color: aquamarine; 
+     height: 120px;
+    max-width: 100%;
+}
+.third {
+    background-color: yellow;
+     height: 120px;
+    max-width: 100%;
+}
